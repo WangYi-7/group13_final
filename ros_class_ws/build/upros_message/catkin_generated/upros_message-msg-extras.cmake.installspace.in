@@ -1,0 +1,2 @@
+set(upros_message_MESSAGE_FILES "msg/SingleServo.msg;msg/MultipleServo.msg;msg/MyMessage.msg;msg/TagCommand.msg;msg/YoloDetection.msg;msg/Adc.msg;msg/CoreMoveAction.msg;msg/CoreMoveActionGoal.msg;msg/CoreMoveActionResult.msg;msg/CoreMoveActionFeedback.msg;msg/CoreMoveGoal.msg;msg/CoreMoveResult.msg;msg/CoreMoveFeedback.msg;msg/MyActionAction.msg;msg/MyActionActionGoal.msg;msg/MyActionActionResult.msg;msg/MyActionActionFeedback.msg;msg/MyActionGoal.msg;msg/MyActionResult.msg;msg/MyActionFeedback.msg")
+set(upros_message_SERVICE_FILES "srv/ArmPosition.srv;srv/MyServiceMsg.srv")

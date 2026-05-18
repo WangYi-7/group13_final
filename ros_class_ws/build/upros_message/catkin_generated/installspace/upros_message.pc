@@ -1,0 +1,8 @@
+prefix=/home/bcsh/ros_class_ws/install
+
+Name: upros_message
+Description: Description of upros_message
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

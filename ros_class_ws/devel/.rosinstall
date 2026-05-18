@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/bcsh/ros_class_ws/devel/setup.sh
